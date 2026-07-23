@@ -1,4 +1,4 @@
-##❤️ Heart Disease Prediction System
+# ❤️ Heart Disease Prediction System
 
 An end-to-end machine learning web app that predicts the risk of heart disease from a patient's clinical parameters. Built with scikit-learn and deployed live on Streamlit Cloud.
 
